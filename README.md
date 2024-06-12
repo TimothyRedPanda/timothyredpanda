@@ -8,7 +8,9 @@ and I am ready to take on new challenges.
 
 One of my favourite projects -
 
-Communications Dashboard
+### Communications Dashboard
+
+Stakeholder - Siobhan Bassford, Director of Communications at West Midlands Combined Authority.
 
 A campaign management dashboard that provides the DOC at WMCA with an easy-to-navigate view of all her upcoming,
 present, and previous campaigns.
