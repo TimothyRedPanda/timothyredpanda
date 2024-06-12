@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center"> < /Timothy Bridge > </h1>
+<p>Here you will find all things Timothy - well all things project based
+anyways. Feel free to look around!
+</p>
+
+
 
 <!--
 **TimothyRedPanda/timothyredpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
