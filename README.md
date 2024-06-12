@@ -6,7 +6,7 @@ I have developed a true passion for coding.
 Turning a few lines of code into an interactive experience is incredibly exciting to me, 
 and I am ready to take on new challenges.
 
-The project I am most proud of being the -
+One of my favourite projects -
 
 Communications Dashboard
 
