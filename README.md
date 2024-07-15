@@ -6,6 +6,8 @@ I have developed a true passion for coding.
 Turning a few lines of code into an interactive experience is incredibly exciting to me, 
 and I am ready to take on new challenges.
 
+Exciting new project being worked on - [Eco Leap](https://github.com/KelseyBaker262/eco-leap)
+
 One of my favourite projects -
 
 ### Communications Dashboard
