@@ -56,11 +56,9 @@ I have pinned my favourite projects but in short I am especially proud of the fo
 
 1) [Red Panda Portfolio/Studio](https://github.com/TimothyRedPanda/red-panda-portfolio): I continually beaver away at this not only to solidify my own knowledge but help other developers just starting out on their journeys. I am really proud of how it is coming togother and loving the journey.
 
-2) [Eco Leap](https://github.com/TimothyRedPanda/eco_leap): This joint project between myself and Kelsey Baker is at the early stages of development. But it is something that is close to my heart. Aimed at those trying to offset their carbon footprint, it will help user calculate the effect on their carboon emissions any travelling will have.
+2) [Red Panda Components/Icons](https://www.npmjs.com/settings/timothypandacode/packages): I am especially proud of having three npm packages published. A component library and icon library included. I want to make them a bit more feature rich when I get the chance. But Red Panda Studio and Eco Leap take priority currently.
 
-3) [Red Panda Components/Icons](https://www.npmjs.com/settings/timothypandacode/packages): I am especially proud of having three npm packages published. A component library and icon library included. I want to make them a bit more feature rich when I get the chance. But Red Panda Studio and Eco Leap take priority currently.
-
-4) [West Midlands Combined Authority Dashboard](https://github.com/TimothyRedPanda/communications_dashboard): This was a team project and my main contributions were the yearly view and the onclick and onhover cards including their logic. It was created intially over four one week sprints to answer a problem statement from Siobhan Bassford, Director of Communications at West Midlands Combined Authority. I am especially proud of the feedback we received:
+3) [West Midlands Combined Authority Dashboard](https://github.com/TimothyRedPanda/communications_dashboard): This was a team project and my main contributions were the yearly view and the onclick and onhover cards including their logic. It was created intially over four one week sprints to answer a problem statement from Siobhan Bassford, Director of Communications at West Midlands Combined Authority. I am especially proud of the feedback we received:
 
 > “The team really listened to what I needed,
 > incorporated everything I wanted into the tool
