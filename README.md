@@ -38,18 +38,6 @@ const currentSkills = [
 ![GitHub_Logo](images/GitHub.png)
 ![Git_Logo](images/Git.png)
 
-
-#### Languages I am having fun learning:
-
-``` php
-const learning = "I currently have one project in Vue.js, Laravel and PHP, and I really want to continue to work on and improve upon this.";
-```
-
-```c++
-std::string learning : "C++";
-std::cout << "Just for fun really but I do want to get a project started in it, as I am really enjoying it.";
-```
-
 ### My Favourite Projects
 
 I have pinned my favourite projects but in short I am especially proud of the following projects:
@@ -58,15 +46,7 @@ I have pinned my favourite projects but in short I am especially proud of the fo
 
 2) [Red Panda Components/Icons](https://www.npmjs.com/settings/timothypandacode/packages): I am especially proud of having three npm packages published. A component library and icon library included. I want to make them a bit more feature rich when I get the chance. But Red Panda Studio and Eco Leap take priority currently.
 
-3) [West Midlands Combined Authority Dashboard](https://github.com/TimothyRedPanda/communications_dashboard): This was a team project and my main contributions were the yearly view and the onclick and onhover cards including their logic. It was created intially over four one week sprints to answer a problem statement from Siobhan Bassford, Director of Communications at West Midlands Combined Authority. I am especially proud of the feedback we received:
-
-> “The team really listened to what I needed,
-> incorporated everything I wanted into the tool
-> and even achieved some stretched goals we had set.
-> They worked quickly and created a workable and visually
-> appealing product.” Siobhan Bassford, DOC
-
-I have cloned the original repo and continue to work on it to make improvements and add extra features.
+3) [Red Panda UI](https://github.com/TimothyRedPanda/redpanda-ui): Fully Jest tested UI components built in React using TypeScript and published on NPM for other developers to use.
 
 ### Where can you connect with me:
 Feel free to connect with myself on [LinkedIn](https://www.linkedin.com/in/timothybridgecode/) for all things Timothy and to follow my journey. Looking forward to connecting with ya.
